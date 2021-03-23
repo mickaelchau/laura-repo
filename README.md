@@ -1,1 +1,1 @@
-Front end app for Laura Parauty
+Collaboration with Laura Parouty
